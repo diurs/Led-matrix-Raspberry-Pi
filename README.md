@@ -3,6 +3,8 @@ LED MATRIX CONTROL WITH A SINGLE-BOARD Raspberry Pi Microcomputer
 
 Result:
 
+Alternating flashing of diodes of different colors. A lot of operating modes
+
 ![image](https://user-images.githubusercontent.com/61711711/95016695-5011c880-065d-11eb-86f5-d347e4816978.png)
 
 
